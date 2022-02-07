@@ -1,5 +1,5 @@
 <?
-
-echo "Hello, World!";
-
+Em
+echo “Olá, pessoal”;
+Em
 >
